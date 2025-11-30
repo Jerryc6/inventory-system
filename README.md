@@ -4,7 +4,7 @@ An **inventory system** is used to track, manage, and contorl the flow of goods 
 
 ---
 
-### 1. Receiving Inventory 
+## 1. Receiving Inventory 
 When new stock arrives, the system performs the following steps:
 
 - Verify shipment against the purchase order
