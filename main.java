@@ -36,6 +36,9 @@ public class main{
 		}catch(Exception e){
 			System.out.println(e);
 		}
+
+		System.out.println("Enter Location");
+		String location = TIsc.nextLine();
 	}
 
 	public static void SOI(){ // #2. Storing & Organizing Inventory
